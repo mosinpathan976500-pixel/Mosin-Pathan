@@ -1,0 +1,2 @@
+# Mosin-Pathan
+  Data Analyst with hands-on experience in  Advanced Excel, Power BI, MySQL,and Python NumPy as Pandas, NumPythrough academic and personal projects. Experienced in data cleaning, data analysis, and data visualization. Strong analytical, problem-solving,and communication skills with a passion for leveraging data to support business decision-making. 
